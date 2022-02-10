@@ -1,0 +1,4 @@
+HR,O2Sat,Temp,SBP,MAP,DBP,Resp,EtCO2,BaseExcess,HCO3,FiO2,pH,PaCO2,SaO2,AST,BUN,Alkalinephos,Calcium,Chloride,Creatinine,Bilirubin_direct,Glucose,Lactate,Magnesium,Phosphate,Potassium,Bilirubin_total,TroponinI,Hct,Hgb,PTT,WBC,Fibrinogen,Platelets,Age,Gender
+76.0,99.5,36.89,134.5,77.83,,14.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,60.77,1
+70.0,100.0,,112.0,56.0,,12.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,60.77,1
+71.0,100.0,36.7,114.0,52.67,,16.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,60.77,1
